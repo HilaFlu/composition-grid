@@ -1,5 +1,5 @@
 # composition-grid
 A small utility to generate grid-scanning lipidomics composition data for molecular simulation.
 
-Copyright Hila Flumin 2021
+Copyright Hila Flumin (C)
 
